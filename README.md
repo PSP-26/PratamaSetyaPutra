@@ -1,0 +1,2 @@
+# PratamaSetyaPutra
+Praktikum Mteode Komputasi
